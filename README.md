@@ -1,7 +1,11 @@
 # **C# Developer** 💻
 
-# **Roblox Exploit Developer** 💻
+# **C++ Developer** 💻
 
-# **Yonkai Exploit:** "Coming Soon" 🗓️
+# **Py Developer** 💻
 
-# **Yonkai Hub (BF = BLOX FRUITS):** "Coming Soon" 🗓️
+# **JavaScript Developer** 💻
+
+
+# **Back End Developer** 📍
+# **Designer Form C# Developer** 📍
